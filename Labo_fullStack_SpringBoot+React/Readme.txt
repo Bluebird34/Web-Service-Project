@@ -1,0 +1,1 @@
+Create application capable of CRUD client database of Postgres using Spring Boot RESTful API and a user interface (UI) implemented with React.
